@@ -113,3 +113,6 @@ export * from './components/typography';
 
 // Data display
 export * from './components/accordion';
+
+// export { default as Flex } from './components/flex';
+export * from './components/flex';
